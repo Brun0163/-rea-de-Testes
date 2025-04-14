@@ -5,3 +5,17 @@ Repositório para armazenar resumos sobre Git e Github de curso de versionamento
 
 ## 📚 Documnetação
 - [Documnetação GitHub](https://github.com/Brun0163/-rea-de-Testes)
+
+## 💾 Resumos Das Aulas
+
+| Aulas | Resumos |
+|-------|---------|
+
+## Comandos
+Para Iniciar Repositório no git digite:
+
+```
+git init
+```
+
+## 🔎 Referências 
